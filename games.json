@@ -3,5 +3,45 @@
         "name": "Snow Rider",
         "slug": "snow-rider",
         "image": "/cache/data/image/game/snow-rider/snow-rider-m186x186.webp"
+    },
+    {
+        "name": "Snow Drift",
+        "slug": "snow-drift",
+        "image": "/cache/data/image/game/snow-drift/snow-drift2-m186x186.webp"
+    },
+    {
+        "name": "Slope",
+        "slug": "slope",
+        "image": "/cache/data/image/game/slope/slope-m186x186.webp"
+    },
+    {
+        "name": "Tube Fall",
+        "slug": "tube-fall",
+        "image": "/cache/data/image/game/tube-fall/tube-fall-m186x186.webp"
+    },
+    {
+        "name": "Snowboard Tricks",
+        "slug": "snowboard-tricks",
+        "image": "/cache/data/image/game/snowboard-tricks/snowboard-tricks-m186x186.webp"
+    },
+    {
+        "name": "Snow Rider 3D Nostalgia",
+        "slug": "snow-rider-3d-nostalgia",
+        "image": "/cache/data/image/game/snow-rider-3d-nostalgia/snow-rider-3d-nostalgia-m186x186.webp"
+    },
+    {
+        "name": "Power Surfer",
+        "slug": "power-surfer",
+        "image": "/cache/data/image/game/power-surfer/power-surfer-m186x186.webp"
+    },
+    {
+        "name": "Skiing Fred",
+        "slug": "skiing-fred",
+        "image": "/cache/data/image/game/skiing-fred/skiing-fred1-m186x186.webp"
+    },
+    {
+        "name": "Downhill Ski",
+        "slug": "downhill-ski",
+        "image": "/cache/data/image/game/downhill-ski/downhill-ski-m186x186.webp"
     }
 ]
